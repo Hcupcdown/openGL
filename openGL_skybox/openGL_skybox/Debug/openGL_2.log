@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(95): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(102): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(190): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(195): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(196): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(199): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(200): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(202): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_2\opengl_2\main.cpp(203): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  openGL_2.vcxproj -> D:\资源文件\vs2017\openGL_2\Debug\openGL_2.exe

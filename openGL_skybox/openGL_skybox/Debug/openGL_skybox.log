@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(openGL_2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(116): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(206): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(211): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(212): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(216): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(218): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_skybox\opengl_skybox\main.cpp(219): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  openGL_skybox.vcxproj -> D:\资源文件\vs2017\openGL_skybox\Debug\openGL_skybox.exe
