@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(126): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(274): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(275): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(279): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(280): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(282): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(283): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\资源文件\vs2017\opengl_shadowmapping_try\opengl_shadowmapping_try\main.cpp(290): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  opengl_shadowMapping_try.vcxproj -> D:\资源文件\vs2017\opengl_shadowMapping_try\Debug\opengl_shadowMapping_try.exe
