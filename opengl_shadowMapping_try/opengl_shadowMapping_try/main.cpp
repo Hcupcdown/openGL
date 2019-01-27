@@ -12,7 +12,7 @@
 #include "glm/gtc/matrix_transform.hpp"
 #include "glm/gtx/rotate_vector.hpp"
 #include "glm/gtc/type_ptr.hpp"
-
+ 
 #include "class/Shader.h"
 #include "class/Camera.h"
 #include "class/Model.h"
@@ -188,7 +188,7 @@ int main()
 		glm::mat4 projection = glm::perspective(glm::radians(camera.GetZoom()), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
 		glm::mat4 view = camera.GetViewMatrix();
 		//随时间更改光源位置
-		//lightPos = glm::rotate(lightPos, 0.01f, glm::vec3(0.0f, 1.0f, 0.0f));
+		lightPos = glm::rotate(lightPos, 0.01f, glm::vec3(0.0f, 1.0f, 0.0f));
 		lightModel = glm::translate(lightModel, lightPos);
 		lightModel = glm::scale(lightModel, glm::vec3(0.1f, 0.1f, 0.1f));
 		lightModel = translate(lightModel, glm::vec3(0.0f, -1.0f, 0.0f));
